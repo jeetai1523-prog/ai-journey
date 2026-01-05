@@ -1,6 +1,6 @@
 #day 2 Variables and numbers
 
-age=30
+age=59
 height=5.2
 salary=580000
 
